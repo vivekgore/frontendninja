@@ -1,4 +1,21 @@
 
+Learning Plan
+---------------
+
+Gulp for the build and workflow process
+LESS and CSS together 
+Bootstrap as default knowledge
+JavaScript with jQuery as default DOM manipulator
+JSHint from day one of JavaScript
+CoffeeScript with JavaScript together
+
+- gulp is better than grunt
+- jshint is better than jslint
+- coffee is better than javascript
+- less is better than css
+
+
+
 Bootstrap 3
 http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
 
