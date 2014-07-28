@@ -123,6 +123,11 @@ http://ivandemarino.me/2011/07/09/Maven-PhantomJS-and-Jasmine-to-write-your-JS-U
 HTML5 Facades by Kyle Simpson
 https://github.com/getify/h5ive 
 
+Installting node http-server globally
+$ npm install -g http-server
+Starting the server
+$ http-server
+
 
 Node.js
 
